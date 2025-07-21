@@ -2,7 +2,7 @@
   "name": "1.bookstore",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://rehabhosney124.github.io/bookstore-react",
+  "homepage": "https://rehabhosney124.github.io/books",
   "type": "module",
   "scripts": {
     "dev": "vite",
